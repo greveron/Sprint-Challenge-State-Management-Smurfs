@@ -1,3 +1,15 @@
 .App {
   text-align: center;
 }
+.cards {
+
+  border: 2px solid blue;
+  border-radius: 130;
+  width: 900px;
+  margin-top: 1%;
+  margin-left: 28%;
+  background-color: cadetblue;
+  color: white;
+  
+  
+}
